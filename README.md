@@ -254,16 +254,6 @@ mindmap
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l5bvqaosa2efoxt6p2phdv4ekq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31l5bvqaosa2efoxt6p2phdv4ekq&redirect=true)
-
-</div>
-
----
-
 ## 📅 Contribution Timeline
 
 <div align="center">
@@ -324,16 +314,6 @@ me = Developer()
 me.say_hi()
 me.keep_learning()
 ```
-
-### 🎯 2024 Goals
-- [ ] Master Generative AI & RAG Systems
-- [ ] Contribute to 10+ Open Source Projects
-- [ ] Build 5 Production-Ready AI Applications
-- [ ] Reach 1000+ GitHub Followers
-- [ ] Learn Kubernetes & Advanced DevOps
-- [ ] Publish Technical Blogs & Tutorials
-
----
 
 ### 💖 Support My Work
 
