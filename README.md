@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshad%20Deepak%20Aloni&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Turning%20Real-World%20Problems%20Into%20Clean,%20Working%20Solutions&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+AI+Enthusiast+%7C+Problem+Solver;Learning+Generative+AI+%2B+Machine+Learning+%2B+Deep+Learning;Breaking+Things+To+Fix+Them+Better!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Enthusiast+%7C+Problem+Solver;Learning+Generative+AI+%2B+Machine+Learning+%2B+Deep+Learning;Breaking+Things+To+Fix+Them+Better!" alt="Typing SVG" /></a>
 
 <!-- Profile Views Counter with animation -->
 <img src="https://komarev.com/ghpvc/?username=akshadtech17&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
